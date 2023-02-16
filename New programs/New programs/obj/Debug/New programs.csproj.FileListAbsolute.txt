@@ -1,0 +1,7 @@
+C:\Users\labuser\source\repos\New programs\New programs\bin\Debug\New programs.exe.config
+C:\Users\labuser\source\repos\New programs\New programs\bin\Debug\New programs.exe
+C:\Users\labuser\source\repos\New programs\New programs\bin\Debug\New programs.pdb
+C:\Users\labuser\source\repos\New programs\New programs\obj\Debug\New programs.csproj.AssemblyReference.cache
+C:\Users\labuser\source\repos\New programs\New programs\obj\Debug\New programs.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\New programs\New programs\obj\Debug\New programs.exe
+C:\Users\labuser\source\repos\New programs\New programs\obj\Debug\New programs.pdb
