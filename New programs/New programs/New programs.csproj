@@ -43,15 +43,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="add student.cs" />
     <Compile Include="addition.cs" />
     <Compile Include="area of circle.cs" />
     <Compile Include="assisted practice.cs" />
     <Compile Include="base converter.cs" />
+    <Compile Include="calculator.cs" />
     <Compile Include="circumference.cs" />
+    <Compile Include="class demo.cs" />
     <Compile Include="conditional.cs" />
+    <Compile Include="constructor.cs" />
+    <Compile Include="do ehile.cs" />
+    <Compile Include="for loop.cs" />
+    <Compile Include="for loop2.cs" />
+    <Compile Include="full program.cs" />
+    <Compile Include="function.cs" />
+    <Compile Include="I.O Namespace.cs" />
+    <Compile Include="loops.cs" />
+    <Compile Include="multiplication.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="simple interest.cs" />
+    <Compile Include="string builder.cs" />
+    <Compile Include="string day4.cs" />
+    <Compile Include="structure class.cs" />
+    <Compile Include="student details.cs" />
+    <Compile Include="this keyword.cs" />
+    <Compile Include="while loop1.cs" />
+    <Compile Include="while loop2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
